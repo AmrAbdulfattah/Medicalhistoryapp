@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\medicalhistoryapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3827EBD-E726-4972-B289-95748289D658}|medicalhistoryapp.DAL\\medicalhistoryapp.DAL.csproj|d:\\medicalhistoryapp\\medicalhistoryapp.dal\\data\\dbhelper\\medicalhistroycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3827EBD-E726-4972-B289-95748289D658}|medicalhistoryapp.DAL\\medicalhistoryapp.DAL.csproj|solutionrelative:medicalhistoryapp.dal\\data\\dbhelper\\medicalhistroycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3827EBD-E726-4972-B289-95748289D658}|medicalhistoryapp.DAL\\medicalhistoryapp.DAL.csproj|d:\\medicalhistoryapp\\medicalhistoryapp.dal\\medicalhistoryapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3827EBD-E726-4972-B289-95748289D658}|medicalhistoryapp.DAL\\medicalhistoryapp.DAL.csproj|solutionrelative:medicalhistoryapp.dal\\medicalhistoryapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB20B057-F57E-4E40-B2DF-A282CD05B9EE}|medicalhistoryapp\\medicalhistoryapp.API.csproj|d:\\medicalhistoryapp\\medicalhistoryapp\\medicalhistoryapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AB20B057-F57E-4E40-B2DF-A282CD05B9EE}|medicalhistoryapp\\medicalhistoryapp.API.csproj|solutionrelative:medicalhistoryapp\\medicalhistoryapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C4992A-9AA3-4669-8267-C89B76F76F5A}|medicalhistoryapp.BLL\\medicalhistoryapp.BLL.csproj|d:\\medicalhistoryapp\\medicalhistoryapp.bll\\medicalhistoryapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97C4992A-9AA3-4669-8267-C89B76F76F5A}|medicalhistoryapp.BLL\\medicalhistoryapp.BLL.csproj|solutionrelative:medicalhistoryapp.bll\\medicalhistoryapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "medicalhistoryapp.DAL.csproj",
+              "DocumentMoniker": "D:\\medicalhistoryapp\\medicalhistoryapp.DAL\\medicalhistoryapp.DAL.csproj",
+              "RelativeDocumentMoniker": "medicalhistoryapp.DAL\\medicalhistoryapp.DAL.csproj",
+              "ToolTip": "D:\\medicalhistoryapp\\medicalhistoryapp.DAL\\medicalhistoryapp.DAL.csproj",
+              "RelativeToolTip": "medicalhistoryapp.DAL\\medicalhistoryapp.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T14:48:19.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicalHistroyContext.cs",
+              "DocumentMoniker": "D:\\medicalhistoryapp\\medicalhistoryapp.DAL\\Data\\DBHelper\\MedicalHistroyContext.cs",
+              "RelativeDocumentMoniker": "medicalhistoryapp.DAL\\Data\\DBHelper\\MedicalHistroyContext.cs",
+              "ToolTip": "D:\\medicalhistoryapp\\medicalhistoryapp.DAL\\Data\\DBHelper\\MedicalHistroyContext.cs",
+              "RelativeToolTip": "medicalhistoryapp.DAL\\Data\\DBHelper\\MedicalHistroyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T14:47:41.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "medicalhistoryapp.BLL.csproj",
+              "DocumentMoniker": "D:\\medicalhistoryapp\\medicalhistoryapp.BLL\\medicalhistoryapp.BLL.csproj",
+              "RelativeDocumentMoniker": "medicalhistoryapp.BLL\\medicalhistoryapp.BLL.csproj",
+              "ToolTip": "D:\\medicalhistoryapp\\medicalhistoryapp.BLL\\medicalhistoryapp.BLL.csproj",
+              "RelativeToolTip": "medicalhistoryapp.BLL\\medicalhistoryapp.BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T14:45:29.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "medicalhistoryapp.API.csproj",
+              "DocumentMoniker": "D:\\medicalhistoryapp\\medicalhistoryapp\\medicalhistoryapp.API.csproj",
+              "RelativeDocumentMoniker": "medicalhistoryapp\\medicalhistoryapp.API.csproj",
+              "ToolTip": "D:\\medicalhistoryapp\\medicalhistoryapp\\medicalhistoryapp.API.csproj",
+              "RelativeToolTip": "medicalhistoryapp\\medicalhistoryapp.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T14:45:04.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

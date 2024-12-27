@@ -1,0 +1,6 @@
+@medicalhistoryapp_HostAddress = http://localhost:5126
+
+GET {{medicalhistoryapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
