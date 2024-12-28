@@ -4,62 +4,56 @@
 *.user
 *.userosscache
 *.sln.docstates
-
-# Auto-generated files
-*.sln.ide
-
-# User-specific files
 *.csproj.user
-
-# Mono auto generated files
 mono_crash.*
 
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# VS Code files
-.vscode/
-
-# Visual Studio 2019
-.vs/ 
+# IDE and editor files
+.vs/
 .vs/*
-
-# Node modules
-node_modules/
-
-# ASP.NET Scaffolding
+.vscode/
+.idea/
+*.sln.ide
 ScaffoldingReadMe.txt
 
-# Files built by Visual Studio
-bin/
-obj/
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
 
-# Logs
+# Dependencies
+node_modules/
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Logs and databases
 *.log
-
-# Database files
 *.mdf
 *.ldf
-
-# Entity Framework
 *.jfm
 
-# ASP.NET
+# Configuration and settings
 appsettings.json
 appsettings.Development.json
 appsettings.Production.json
-
-# Azure Function settings
 local.settings.json
 
-# Configuration for IDE
-.idea/
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
 
-.vs/*
+# Cache and temporary files
+*.[Cc]ache
+!?*.[Cc]ache/
+*.userprefs
+
+# NuGet
+*.nupkg
+*.snupkg
