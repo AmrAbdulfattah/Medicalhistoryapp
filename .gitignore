@@ -1,0 +1,65 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.sln.ide
+
+# User-specific files
+*.csproj.user
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code files
+.vscode/
+
+# Visual Studio 2019
+.vs/ 
+.vs/*
+
+# Node modules
+node_modules/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Files built by Visual Studio
+bin/
+obj/
+
+# Logs
+*.log
+
+# Database files
+*.mdf
+*.ldf
+
+# Entity Framework
+*.jfm
+
+# ASP.NET
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Azure Function settings
+local.settings.json
+
+# Configuration for IDE
+.idea/
+
+.vs/*
